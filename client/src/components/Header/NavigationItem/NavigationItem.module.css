@@ -1,18 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Indie+Flower&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  font-family: "Indie- Flower", cursive;
-}
-/* nav .listItem a {
+.navListItem {
   color: white;
   text-decoration: none;
 }
-*/
 
-nav .listItem,
-footer .listItem {
+.listItem {
   display: inline-block;
   height: auto;
   margin-right: 2%;
@@ -22,14 +13,13 @@ footer .listItem {
   vertical-align: top;
 }
 
-/*
-nav .listItem:not(:first-child) {
+.listItem:not(:first-child) {
   padding: 2%;
   margin-top: 1.5%;
   border-top: 2px solid #ffa000;
 }
-nav .listItem:hover {
+.listItem:hover {
   border-top: none;
   border-bottom: 2px solid #ffa000;
   font-weight: bold;
-} */
+}
