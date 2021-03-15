@@ -32,3 +32,10 @@ footer .listItem {
   margin: 0.1%;
   vertical-align: top;
 }
+
+.container {
+  margin-top: 8.5%;
+  padding: 0.5%;
+  /* border: 1px solid purple; */
+  margin-bottom: 0.1%;
+}
