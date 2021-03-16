@@ -1,14 +1,19 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "content": "Some content here 1",
-            "author": "Pesho"
-        },
-        {
-            "id": 2,
-            "content": "Some content here 2",
-            "author": "Gosho"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "content": "Some content here 1",
+      "author": "Pesho"
+    },
+    {
+      "id": 2,
+      "content": "Some content here 2",
+      "author": "Gosho"
+    },
+    {
+      "id": 3,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, laborum? Illum, nostrum, dolorem aperiam voluptatibus atque veritatis inventore fugiat qui, quidem est maxime! Vero vitae asperiores veniam quisquam possimus alias!",
+      "author": "Stamat"
+    }
+  ]
 }
