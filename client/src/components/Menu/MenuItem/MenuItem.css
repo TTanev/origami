@@ -8,6 +8,10 @@
   text-align: center;
 }
 
+.menuItemSelected {
+  background-color: #dcdcdc;
+}
+
 .menuItem a {
   color: #234465;
   text-align: center;

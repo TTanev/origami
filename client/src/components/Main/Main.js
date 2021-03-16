@@ -1,5 +1,5 @@
 import Post from "../Post"
-import "./Main.css"
+import "./Main.scss"
 
 const Main = ({ posts }) => {
   return (
